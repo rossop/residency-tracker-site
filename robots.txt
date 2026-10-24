@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rossop.github.io/residency-tracker-site/sitemap.xml
